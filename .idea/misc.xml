@@ -8,8 +8,11 @@
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/Challenge2/app/src/main/res/drawable/bg_rounded_blue.xml" value="0.2985" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/Challenge2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2985" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/Challenge2/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/project/1/Challenge2/app/src/main/res/drawable/wallet.xml" value="0.2115" />
         <entry key="..\:/project/1/Challenge2/app/src/main/res/layout/activity_main.xml" value="0.1358695652173913" />
-        <entry key="..\:/project/1/Challenge2/app/src/main/res/layout/activity_shopee.xml" value="0.1" />
+        <entry key="..\:/project/1/Challenge2/app/src/main/res/layout/activity_shopee.xml" value="0.25" />
+        <entry key="..\:/project/1/Challenge2/app/src/main/res/layout/fragment_shopee.xml" value="0.25" />
+        <entry key="..\:/project/1/Challenge2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
       </map>
     </option>
   </component>
